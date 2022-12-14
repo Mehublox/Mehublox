@@ -1,11 +1,11 @@
 local kavoUi = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
-local window = kavoUi.CreateLib("Main Title","BloodTheme")
+local window = kavoUi.CreateLib("horfic","BloodTheme")
  
 ---Tabs
  
-local Tab1 = window:NewTab("Main")
-local Tab1Section = Tab1:NewSection("Main")
-local Tab2 = window:NewTab("Sup")
+local Tab1 = window:NewTab("scrip")
+local Tab1Section = Tab1:NewSection("acript")
+local Tab2 = window:NewTab("gui")
 local Tab2Section = Tab2:NewSection("Nothing")
 local Tab3 = window:NewTab("Credits")
 local Tab3Section = Tab3:NewSection("thatall")
